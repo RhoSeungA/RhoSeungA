@@ -9,16 +9,13 @@
 
 <br />
 
+![SeungA's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhoSeungA&theme=buefy&show_icons=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhoSeungA)](https://github.com/RhoSeungA/RhoSeungA)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
 
 
 
-<!--
-![SeungA's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhoSeungA&theme=buefy&show_icons=true)
--->
 
 
 
